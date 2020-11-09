@@ -53,6 +53,7 @@ export default {
         img{
             width: 100px;
             margin: 0px 20px;
+             filter: opacity(20%);
         }
     }
             
